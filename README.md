@@ -5,7 +5,7 @@
 
 <details><summary>What is Swarm City?</summary>
 
-A global network building a decentralized app, built on the Ethereum blockchain, to create a [community](https://medium.com/arcade-city-press/getting-organized-62b91a7a0541) of open marketplaces for the exchange of services between peers
+A global network building a decentralized app, built on the Ethereum blockchain, to create a [community](https://medium.com/arcade-city-press/getting-organized-62b91a7a0541) of open marketplaces for the exchange of services between peers. Learn more [here](https://queenbeesc.github.io/swarm.city/)
 </details>
 
 
