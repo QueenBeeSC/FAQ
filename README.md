@@ -70,7 +70,7 @@ The Arcade City cofounders and the project’s Ethereum development team separat
 Visit [the Terminal](https://swarm.city ) to create a user profile and a digital wallet 
 </details>
 
-<details><summary> do I find other locals?</summary>
+<details><summary>How do I find other locals?</summary>
 
 Facebook [Swarm City #needaride](https://www.swarmedup.com/needaride/) groups
 </details>
