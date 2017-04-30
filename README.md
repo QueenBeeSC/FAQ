@@ -263,7 +263,7 @@ Yes, the [Token exchange whitepaper](https://github.com/swarmcity/sc-token/blob/
 Visit Etherscan to monitor the [SWT ERC-20 token contract](https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607) 
 </details>
 
-<details><summary> are the funds from the tokensale?</summary>
+<details><summary>Where are the funds from the tokensale stored?</summary>
 
 [Etherscan](https://etherscan.io/address/0x50126e8fcb9be29f83c6bbd913cc85b40eaf86fc)
 </details>
